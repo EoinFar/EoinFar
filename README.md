@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eoin</h1>
-<h3 align="center">Berlin via Dublin and London, background in business development and client management. Pursuing developer opportunities in person or remote.</h3>
+<h3 align="center">Berlin via Dublin and London, background in business development and client management. Pursuing new opportunities in Berlin or remote.</h3>
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/eoin](https://troopl.com/eoin)
 
